@@ -13,11 +13,11 @@ Creation of NITF files
 (3) Diagnosis.py 
 - Open any image file by changing parameter in Open() 
 - Return:
-  -Driver (File type)
-  -Size 
-  -Projection
-  -Origin 
-  -Pixel Size 
+- Driver (File type)
+-Size 
+-Projection
+-Origin 
+-Pixel Size 
  
 set driver = NITF 
 Source code: https://gdal.org/python/index.html
