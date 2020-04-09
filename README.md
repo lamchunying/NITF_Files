@@ -14,10 +14,10 @@ Creation of NITF files
 - Open any image file by changing parameter in Open() 
 - Return:
 - Driver (File type)
--Size 
--Projection
--Origin 
--Pixel Size 
+- Size 
+- Projection
+- Origin 
+- Pixel Size 
  
 set driver = NITF 
 Source code: https://gdal.org/python/index.html
